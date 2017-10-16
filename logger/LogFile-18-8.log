@@ -1,0 +1,4 @@
+Aug 18, 2017 2:42:20 PM javniApi.ApiUtakmice ubaciUtakmice
+SEVERE: greska prilikom unosenja utakmica preko API-ja
+Aug 18, 2017 2:42:47 PM provera.proveraUtakmica.ProveriUtakmice unesiPonovo
+SEVERE: greska prilikom unosenja utakmica preko API-ja nakon provere

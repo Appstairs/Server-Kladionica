@@ -1,0 +1,128 @@
+Aug 21, 2017 12:23:59 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: maki
+Aug 21, 2017 12:23:59 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Aug 21, 2017 12:23:59 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Aug 21, 2017 12:24:01 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: maki
+Aug 21, 2017 12:54:59 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: maki
+Aug 21, 2017 12:55:00 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Aug 21, 2017 12:55:00 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Aug 21, 2017 12:55:02 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: maki
+Aug 21, 2017 10:42:05 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: maki
+Aug 21, 2017 10:42:05 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Aug 21, 2017 10:42:06 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Aug 21, 2017 10:42:10 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: maki
+Aug 21, 2017 10:43:07 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: maki
+Aug 21, 2017 10:43:07 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Aug 21, 2017 10:43:08 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Aug 21, 2017 10:43:10 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: maki
+Aug 21, 2017 11:12:11 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: maki
+Aug 21, 2017 11:12:11 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Aug 21, 2017 11:12:11 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Aug 21, 2017 11:12:13 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: maki
+Aug 21, 2017 11:14:14 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: maki
+Aug 21, 2017 11:14:14 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Aug 21, 2017 11:14:15 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Aug 21, 2017 11:14:35 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: maki
+Aug 21, 2017 11:16:08 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: maki
+Aug 21, 2017 11:16:08 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Aug 21, 2017 11:16:08 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Aug 21, 2017 11:16:10 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: maki
+Aug 21, 2017 12:08:06 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: maki
+Aug 21, 2017 12:08:06 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Aug 21, 2017 12:08:07 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Aug 21, 2017 12:08:08 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: maki
+Aug 21, 2017 12:54:22 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: maki
+Aug 21, 2017 12:54:22 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Aug 21, 2017 12:54:22 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Aug 21, 2017 12:54:29 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: maki
+Aug 21, 2017 12:59:41 PM javniApi.ApiUtakmice ubaciUtakmice
+SEVERE: greska prilikom unosenja utakmica preko API-ja
+Aug 21, 2017 1:00:11 PM provera.proveraUtakmica.ProveriUtakmice unesiPonovo
+SEVERE: greska prilikom unosenja utakmica preko API-ja nakon provere
+Aug 21, 2017 1:02:10 PM provera.proveraUtakmica.ProveriUtakmice unesiPonovo
+SEVERE: greska prilikom unosenja utakmica preko API-ja nakon provere
+Aug 21, 2017 1:02:52 PM provera.proveraUtakmica.ProveriUtakmice unesiPonovo
+SEVERE: greska prilikom unosenja utakmica preko API-ja nakon provere
+Aug 21, 2017 1:07:28 PM provera.proveraUtakmica.ProveriUtakmice unesiPonovo
+SEVERE: greska prilikom unosenja utakmica preko API-ja nakon provere
+Aug 28, 2017 9:22:41 AM javniApi.ApiUtakmice ubaciUtakmice
+SEVERE: greska prilikom unosenja utakmica preko API-ja
+Aug 28, 2017 9:22:46 AM provera.proveraUtakmica.ProveriUtakmice unesiPonovo
+SEVERE: greska prilikom unosenja utakmica preko API-ja nakon provere
+Aug 28, 2017 9:36:14 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: maki
+Aug 28, 2017 9:36:15 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Aug 28, 2017 9:36:27 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Aug 28, 2017 9:36:54 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Aug 28, 2017 9:37:01 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Aug 28, 2017 9:38:22 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: maki
+Aug 29, 2017 11:48:51 AM javniApi.ApiUtakmice ubaciUtakmice
+SEVERE: greska prilikom unosenja utakmica preko API-ja
+Aug 29, 2017 11:48:56 AM provera.proveraUtakmica.ProveriUtakmice unesiPonovo
+SEVERE: greska prilikom unosenja utakmica preko API-ja nakon provere
+Aug 29, 2017 4:18:02 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: maki
+Aug 29, 2017 4:18:02 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Aug 29, 2017 4:18:03 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Aug 29, 2017 4:18:20 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Aug 29, 2017 4:18:57 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: maki
+Aug 29, 2017 4:22:19 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: maki
+Aug 29, 2017 4:22:19 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Aug 29, 2017 4:22:20 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Aug 29, 2017 4:22:34 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Aug 29, 2017 4:22:58 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Aug 29, 2017 4:25:58 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Aug 29, 2017 4:34:34 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Aug 29, 2017 6:00:29 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: maki

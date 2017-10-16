@@ -1,0 +1,28 @@
+Jul 07, 2017 5:27:47 PM javniApi.ApiUtakmice ubaciUtakmice
+INFO: uspesno unete utakmice
+Jul 07, 2017 5:28:09 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: Appstairs
+Jul 07, 2017 5:28:15 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: Appstairs je kreirao novi tiket
+Jul 07, 2017 5:28:25 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: Appstairs trazio sve tipove
+Jul 07, 2017 5:28:39 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: maki
+Jul 07, 2017 5:28:40 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Jul 07, 2017 5:28:41 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Jul 07, 2017 5:28:49 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sva uplatna mesta
+Jul 07, 2017 5:28:50 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve radnike
+Jul 07, 2017 5:29:02 PM niti.NitKlijent obradiZahtevKlijenta
+SEVERE: greska prilikom brisanja radnika
+Jul 07, 2017 5:29:51 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je obrisao radnika:Evka
+Jul 07, 2017 5:30:34 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sva uplatna mesta
+Jul 07, 2017 5:30:36 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve radnike
+Jul 07, 2017 5:31:47 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: maki

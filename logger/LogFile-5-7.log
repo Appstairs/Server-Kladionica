@@ -1,0 +1,18 @@
+Jul 05, 2017 1:45:06 AM javniApi.ApiUtakmice ubaciUtakmice
+INFO: uspesno unete utakmice
+Jul 05, 2017 1:45:10 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: maki
+Jul 05, 2017 1:45:10 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Jul 05, 2017 1:45:10 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Jul 05, 2017 1:45:12 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: maki
+Jul 05, 2017 1:46:21 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: Appstairs
+Jul 05, 2017 1:46:21 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: Appstairs je kreirao novi tiket
+Jul 05, 2017 1:46:22 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: Appstairs trazio sve tipove
+Jul 05, 2017 1:46:23 AM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: Appstairs

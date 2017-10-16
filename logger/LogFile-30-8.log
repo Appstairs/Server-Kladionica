@@ -1,0 +1,28 @@
+Aug 30, 2017 6:03:09 PM javniApi.ApiUtakmice ubaciUtakmice
+SEVERE: greska prilikom unosenja utakmica preko API-ja
+Aug 30, 2017 6:03:36 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: maki
+Aug 30, 2017 6:03:37 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Aug 30, 2017 6:03:39 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Aug 30, 2017 6:03:39 PM provera.proveraUtakmica.ProveriUtakmice unesiPonovo
+SEVERE: greska prilikom unosenja utakmica preko API-ja nakon provere
+Aug 30, 2017 6:03:45 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novog radnika
+Aug 30, 2017 6:03:45 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sva uplatna mesta
+Aug 30, 2017 6:03:48 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sva uplatna mesta
+Aug 30, 2017 6:03:48 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve radnike
+Aug 30, 2017 6:03:53 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Aug 30, 2017 6:03:53 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Aug 30, 2017 6:04:01 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: maki
+Sep 03, 2017 5:43:13 PM javniApi.ApiUtakmice ubaciUtakmice
+SEVERE: greska prilikom unosenja utakmica preko API-ja
+Sep 03, 2017 5:43:17 PM provera.proveraUtakmica.ProveriUtakmice unesiPonovo
+SEVERE: greska prilikom unosenja utakmica preko API-ja nakon provere

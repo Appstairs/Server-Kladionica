@@ -1,0 +1,104 @@
+Sep 20, 2017 1:01:16 PM javniApi.ApiUtakmice ubaciUtakmice
+SEVERE: greska prilikom unosenja utakmica preko API-ja
+Sep 20, 2017 1:01:44 PM provera.proveraUtakmica.ProveriUtakmice unesiPonovo
+SEVERE: greska prilikom unosenja utakmica preko API-ja nakon provere
+Sep 20, 2017 1:01:52 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: maki
+Sep 20, 2017 1:01:52 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Sep 20, 2017 1:01:53 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Sep 20, 2017 1:02:00 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je pretrazio tiket: 531
+Sep 20, 2017 1:02:00 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Sep 20, 2017 1:02:00 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Sep 20, 2017 1:02:33 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve utakmice
+Sep 20, 2017 1:02:51 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je pretrazio tiket: 531
+Sep 20, 2017 1:02:51 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Sep 20, 2017 1:02:51 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Sep 20, 2017 1:02:58 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve utakmice
+Sep 20, 2017 1:03:27 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je promenio rezultat utakmicenull - null
+Sep 20, 2017 1:03:27 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve utakmice
+Sep 20, 2017 1:03:37 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je promenio rezultat utakmicenull - null
+Sep 20, 2017 1:03:37 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve utakmice
+Sep 20, 2017 1:03:44 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je pretrazio tiket: 531
+Sep 20, 2017 1:03:44 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Sep 20, 2017 1:03:44 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Sep 20, 2017 1:04:08 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve utakmice
+Sep 20, 2017 1:04:09 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novu utakmicu
+Sep 20, 2017 1:05:24 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je uneo novu utakmicu FC Barcelona - Real Madrid
+Sep 20, 2017 1:05:49 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novu utakmicu
+Sep 20, 2017 1:06:48 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je uneo novu utakmicu Juventus - Napoli
+Sep 20, 2017 1:08:18 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: maki
+Sep 20, 2017 1:13:33 PM provera.proveraUtakmica.ProveriUtakmice unesiPonovo
+SEVERE: greska prilikom unosenja utakmica preko API-ja nakon provere
+Sep 20, 2017 1:16:51 PM provera.proveraUtakmica.ProveriUtakmice unesiPonovo
+SEVERE: greska prilikom unosenja utakmica preko API-ja nakon provere
+Sep 20, 2017 1:17:53 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: Prijavio se: maki
+Sep 20, 2017 1:17:54 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novi tiket
+Sep 20, 2017 1:17:54 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve tipove
+Sep 20, 2017 1:18:03 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Sep 20, 2017 1:18:06 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Sep 20, 2017 1:18:13 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Sep 20, 2017 1:18:21 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Sep 20, 2017 1:18:27 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je zapamtio novi tiket
+Sep 20, 2017 1:19:12 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je pretrazio tiket: 538
+Sep 20, 2017 1:19:12 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Sep 20, 2017 1:19:12 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Sep 20, 2017 1:19:18 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je pretrazio tiket: 531
+Sep 20, 2017 1:19:18 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Sep 20, 2017 1:19:18 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Sep 20, 2017 1:19:21 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je isplatio tiket:531
+Sep 20, 2017 1:19:44 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sve utakmice
+Sep 20, 2017 1:19:44 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novu utakmicu
+Sep 20, 2017 1:20:55 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je uneo novu utakmicu Arsenal - Chelsea
+Sep 20, 2017 1:21:19 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio utakmice po zadatom kriterijumu
+Sep 20, 2017 1:21:50 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki zatrazio tikete po zadatom kriterijumu
+Sep 20, 2017 1:22:03 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je kreirao novog radnika
+Sep 20, 2017 1:22:03 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki trazio sva uplatna mesta
+Sep 20, 2017 1:22:49 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: maki je sacuvao novog radnika: DELMUNJA
+Sep 20, 2017 1:22:54 PM niti.NitKlijent obradiZahtevKlijenta
+INFO: odjavio se: maki
